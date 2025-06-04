@@ -83,13 +83,4 @@ These techniques enhanced the model's ability to detect structural anomalies suc
 - Confusion Matrix
 - Training/Validation Curve Analysis
 
----
 
-## 🧪 How to Use
-
-### 🖥️ Run Locally
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/alzheimers-mri-deeplearning.git
-   cd alzheimers-mri-deeplearning
